@@ -2,7 +2,7 @@
 AI based Context and Sentiment Analysis for Messaging
 
 # Prerequisites
-Create a folder named 'word_vectors' inside the root folder, and downlad in this folder the embeddings from these two links:
+Create a folder named 'word_vectors' inside the root folder, and download in this folder the embeddings from these two links:
 - [Sentiment Specific word embeddings (SSWE)](http://ir.hit.edu.cn/~dytang/paper/sswe/embedding-results.zip)
 - [GLoVe](https://nlp.stanford.edu/projects/glove/)
 
