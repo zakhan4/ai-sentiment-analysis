@@ -1,0 +1,7 @@
+sessions/
+
+.ipynb_checkpoints/
+
+__pycache__
+
+telegram.db
