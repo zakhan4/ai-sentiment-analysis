@@ -18,4 +18,4 @@ AI based Context and Sentiment Analysis for Messaging
 ## To run the Project
 - TelegramClient.ipynb: Connects to the Telegram application, reads the chats and predicts the sentiment using the trained model
 - Run and authenticate with the your user and telegram app info
-- To find out the sentiment score, send "<score>" message in telegram
+- To find out the sentiment score, send "\<score\>" message in telegram
