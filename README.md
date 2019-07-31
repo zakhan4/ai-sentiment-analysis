@@ -7,7 +7,7 @@ AI based Context and Sentiment Analysis for Messaging
 
 ## To train the model
 - TrainModel.ipynb: Used to train models and then save them inside 'results' folder
-- To train model on different datasets: you can change the value of 'Data' variable, and can select any one value from these:
+- To train model on different datasets, you can change the value of 'Data' variable, and can select any one value from these:
   1. formspring
   2. wiki
   3. twitter
